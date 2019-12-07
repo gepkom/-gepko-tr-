@@ -1,0 +1,2 @@
+# -gepko-tr-
+(*gepko(ko)*)
